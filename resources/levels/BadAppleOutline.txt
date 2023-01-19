@@ -1,0 +1,11 @@
+In order to download the Bad Apple Outline, you'll have to get it from the youtube page.
+
+Create a new folder somewhere with a virtual environment, and activate said environment.
+
+Install youtube-dl (https://pypi.org/project/youtube_dl/) with "pip install youtube_dl"
+
+Next, use the following command (make sure you're "sourced" in the virtual environment with "source env/bin/activate":
+
+youtube-dl --no-check-certificate https://www.youtube.com/watch?v=_rgNBzKubLM
+
+Then, once its done, drag the resulting video into {project folder}/resources/levels, and name it "Bad Apple Outline.mp4" exactly
