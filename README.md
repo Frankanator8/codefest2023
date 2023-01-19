@@ -16,7 +16,9 @@ You can use power ups to double jump, have a bigger Force, or a saving grace for
 
 ## Credit
 Background - Clownfucker (Toby Fox, James Roach)
+
 Coding - Frank Liu
+
 Art - Matthew Fang
 
 ## Installation
@@ -29,4 +31,8 @@ The code (should) work on any system, but you must install the following Python 
 * MoviePy (https://pypi.org/project/moviepy/)
 
 In addition, you will have to add FFMPEG to the working directory (https://ffmpeg.org/)
+
 ***NOTE: IN MAIN.PY CHANGE THE ENVIRONMENT VARIABLE TO THE PATH TO YOUR FFMPEG EXECUTABLE***
+
+
+Finally, because Github's web client allows at most 25 MB per file upload, the Bad Apple Outline could not be uploaded. Instructions on how to do so are in resources/levels/BadAppleOutline.txt
